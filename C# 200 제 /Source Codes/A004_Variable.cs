@@ -24,7 +24,6 @@ namespace Practice
             Console.Write("세, 키는 ");
             Console.Write(height);
             Console.WriteLine("cm 이군요!");
-
         }
     }
 }
